@@ -12,4 +12,7 @@
 本项目的工作流为每天自动获取https://raw.githubusercontent.com/bia-pain-bache/BPB-Worker-Panel/refs/heads/main/build/unobfuscated-worker.js 文件（混淆加密过的），保存到本地的origin.js文件中。<br>
 查看：https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/build/worker.js<br>
 2025.3.31<br>
+<br>
+  目标源更改成release了，需要每次修改下载地址<br>
+  2025.4.17<br>
 </p>
